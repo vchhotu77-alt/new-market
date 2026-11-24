@@ -7,7 +7,6 @@
     <application
         android:allowBackup="true"
         android:label="NEW MARKET"
-        android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:supportsRtl="true">
 
         <activity
@@ -20,5 +19,7 @@
             </intent-filter>
 
         </activity>
+
     </application>
+
 </manifest>
